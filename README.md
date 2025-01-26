@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisdevikasunilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="thisisdevikasunilkumar" /> </p>
 
 - 🧑🏼‍🎓 I graduated with a **BCA**
-- 🎓 I am pursuing an **MCA**
+- 📝 I am pursuing an **MCA**
 - 🌱 I’m learned **Asp .NET Web Developer Program**
 - 💬 Ask me about **HTML, CSS, C#, JAVA, MS SQL, MySQL**
 - 📫 How to reach me **devikasunilkumar20@gmail.com**
