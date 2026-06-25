@@ -1,15 +1,18 @@
 <img align="center" alt="Image" width="1000" height="400" src="https://i.postimg.cc/KvkLchdD/coding.gif"/>
 
 <h1 align="center">Hi 👋, I'm Devika Sunilkumar</h1>
-<h3 align="center">Asp .NET developer with a passion for building web applications</h3>
+<h3 align="center">Aspiring Junior .NET Developer | ASP.NET Core Web API | C# | SQL Server</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisdevikasunilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="thisisdevikasunilkumar" /> </p>
 
-- 🧑🏼‍🎓 I graduated with a **BCA**
-- 📝 I am pursuing an **MCA**
-- 🌱 I’m learned **Asp .NET Web Developer Program**
-- 💬 Ask me about **HTML, CSS, C#, JAVA, MS SQL, MySQL**
-- 📫 How to reach me **devikasunilkumar20@gmail.com**
+<h3 align="left">About Me</h3>
+
+- 🧑🏼‍🎓 **BCA** Graduate
+- 📝 **MCA** Student at Dr. John Matthai Centre, Thrissur (University of Calicut)
+- 💻 Aspiring **Junior .NET Developer** passionate about building scalable web applications.
+- 🌱 Currently improving my skills in **ASP.NET Core Web API**, **C#**, **SQL Server**, and **Full-Stack Development**.
+- 🚀 Looking for opportunities as a **Junior .NET Developer** / **ASP.NET Developer**.
+- 📫 Reach me at: **devikasunilkumar20@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
